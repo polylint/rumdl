@@ -1,12 +1,12 @@
 [package]
-name = "rumdl"
+name = "polylint-rumdl"
 version = "0.3.4"
 edition = "2024"
 rust-version = "1.97.0"
-description = "A fast Markdown linter and formatter written in Rust"
+description = "Polylint's internal fork of rumdl. Use the rumdl crate instead."
 authors = ["Ruben J. Jongejan <ruben.jongejan@gmail.com>"]
 license = "MIT"
-repository = "https://github.com/rvben/rumdl"
+repository = "https://github.com/polylint/rumdl"
 homepage = "https://rumdl.dev"
 documentation = "https://rumdl.dev"
 readme = "README.md"
@@ -22,7 +22,7 @@ crate-type = ["cdylib", "rlib"]
 wasm-opt = false
 
 [[bin]]
-name = "rumdl"
+name = "polylint-rumdl"
 path = "src/main.rs"
 
 [profile.release]

@@ -1,5 +1,14 @@
 # rumdl
 
+> [!IMPORTANT]
+> **This is `polylint-rumdl`, the [polylint](https://github.com/polylint/polylint) organization's fork of
+> [rumdl](https://github.com/rvben/rumdl). Do not use it.** Install and depend on
+> [`rumdl`](https://crates.io/crates/rumdl) instead.
+>
+> It exists only so polylint can ship fixes before they are released upstream, and every change is sent upstream
+> first (for example rvben/rumdl#1003). The crate is published from the `polylint-rumdl` branch of this fork;
+> `main` tracks upstream unchanged.
+
 <div align="center">
 
 <picture>
