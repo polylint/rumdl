@@ -1399,7 +1399,7 @@ If a release breaks something documented as stable, that is a bug.
 
 ### Prerequisites
 
-- Rust 1.97 or higher
+- Rust 1.98 or higher
 - Make (for development commands)
 
 ### Building
