@@ -2387,7 +2387,7 @@ dependencies = [
 
 [[package]]
 name = "polylint-rumdl"
-version = "0.3.5"
+version = "0.3.6"
 dependencies = [
  "aho-corasick",
  "assert_cmd",
